@@ -67,28 +67,10 @@ If you want to set up FollowGuard Standard on your own server for development:
     ```
 6.  **Open your browser** and go to `http://localhost:3000` (or the port you configured).
 
-## 🗂 Project Structure
-
-```
-FollowGuard-Standard/
-├── src/                 # Source code for the application 
-├── tests/               # Unit and integration tests 
-├── docs/                # Additional project documentation 
-├── res/                 # Static resources (images, icons) 
-├── .github/             # GitHub issue and PR templates, workflows 
-│   └── workflows/       # GitHub Actions configuration 
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md      # Guidelines for contributors 
-├── SECURITY.md          # Security policy and reporting instructions 
-└── package.json         # (or requirements.txt, etc.)
-```
-
 ## 🤝 Contributing
 
 We love your input! We want to make contributing to FollowGuard Standard as easy and transparent as possible.
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on the process for submitting pull requests, our code of conduct, and the development workflow.
 
 ### Steps to Contribute
 
